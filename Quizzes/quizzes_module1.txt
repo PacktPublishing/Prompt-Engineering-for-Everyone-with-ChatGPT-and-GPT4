@@ -1,0 +1,39 @@
+Question 1: What is prompt engineering?
+A. The study of computer programming languages
+B. The art and science of designing effective inputs and fine-tuning parameters for A.I. models
+C. The process of building robots to perform specific tasks
+D. The development of algorithms for data analysis
+
+Correct answer: B
+
+Question 2: Which A.I. model is known for understanding and generating human-like text?
+A. GPT-4
+B. Midjourney
+C. Stable Diffusion
+D. Journeyman
+
+Correct answer: A
+
+Question 3: What role do prompts play in working with A.I. models?
+A. They provide a user interface for interacting with A.I. systems
+B. They serve as the steering wheel and gas pedal, helping navigate the A.I.'s capabilities and guiding it toward the right destination
+C. They act as a database for storing information related to A.I. models
+D. They define the structure of the A.I. model's neural network
+
+Correct answer: B
+
+Question 4: Why is learning prompt engineering important in the age of A.I.?
+A. It is the only way to communicate with A.I. systems
+B. It helps you understand how to create new A.I. models from scratch
+C. It enables you to enhance your productivity, adapt to the changing job market, and play an active role in shaping the A.I.-powered future
+D. It ensures that A.I. systems cannot replace your job
+
+Correct answer: C
+
+Question 5: Which of the following tasks can GPT-4 be useful for?
+A. Generating images from textual descriptions
+B. Summarizing large data sets
+C. Composing music based on lyrics
+D. Providing real-time speech translation
+
+Correct answer: B

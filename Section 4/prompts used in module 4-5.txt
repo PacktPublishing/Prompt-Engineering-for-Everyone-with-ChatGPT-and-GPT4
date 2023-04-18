@@ -1,0 +1,7 @@
+Generate a list of top 3 product recommendations for a customer who enjoys outdoor activities and has previously purchased camping gear.
+
+Based on the given sales data and upcoming events, predict the demand for sports shoes in the next month.
+{previous sales data and list of upcoming events}
+
+Create a personalized email campaign for customers who have a birthday in the next month, offering them a special discount on their favorite product category
+{list of birthdays and product categories}

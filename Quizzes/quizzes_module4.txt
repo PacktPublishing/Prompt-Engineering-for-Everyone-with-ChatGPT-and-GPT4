@@ -1,0 +1,44 @@
+Question 1: What is an important factor to consider when creating prompts for social media posts?
+
+a) The font size of the post
+b) The recipient's relationship to you
+c) The platform (e.g. Twitter, Instagram, Facebook)
+d) The sender's favorite color
+
+Answer: c) The platform (e.g. Twitter, Instagram, Facebook)
+
+Question 2: What is one of the main purposes of using prompt engineering for content generation?
+
+a) To replace human creativity entirely
+b) To generate memes
+c) To guide AI in generating tailored content
+d) To access the Internet for real-time data
+
+Answer: c) To guide AI in generating tailored content
+
+Question 3: In the context of task delegation and project management, what can prompt engineering help accomplish?
+
+a) Analyze workload and prioritize tasks
+b) Make a selection of mandatory reads the team
+c) Predict future technology trends
+d) Compose a business case
+
+Answer: a) Analyze workload and prioritize tasks
+
+Question 4: What is a key advantage of using AI-assisted customer support?
+
+a) The ability to handle complex emotional situations
+b) The ability to reduce response times
+c) The ability to understand sarcasm
+d) The ability to empathize with customers
+
+Answer: b) The ability to reduce response times
+
+Question 5: How can AI help in the realm of data analysis?
+
+a) By participating in meetings and providing live feedback
+b) By creating visual art based on data patterns
+c) By enhancing data visualization and pattern recognition
+d) By being influenced by emotions and preconceived notions
+
+Answer: c) By enhancing data visualization and pattern recognition

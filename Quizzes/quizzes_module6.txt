@@ -1,0 +1,44 @@
+Question 1: Which of the following strategies can help reduce bias in A.I. prompts?
+
+a) Use gender-specific pronouns
+b) Use inclusive language
+c) Focus on a single perspective
+d) Avoid diverse examples
+
+Correct answer: b) Use inclusive language
+
+Question 2: When evaluating A.I.-generated outputs, which of the following steps should you follow?
+
+a) Ignore feedback from others
+b) Ask for feedback from a diverse group of people
+c) Focus on your own perspective
+d) Avoid iterating and improving
+
+Correct answer: b) Ask for feedback from a diverse group of people
+
+Question 3: Which of the following is NOT a type of bias that can emerge in A.I. systems?
+
+a) Hair color bias
+b) Gender bias
+c) Racial or ethnic bias
+d) Socioeconomic bias
+
+Correct answer: a) Hair color bias
+
+Question 4: In the context of data privacy, which of the following considerations is important when working with A.I.?
+
+a) Including personally identifiable information in prompts
+b) Anonymizing data before training or using A.I. models
+c) Ignoring data protection regulations
+d) Using unsecure data storage and transmission
+
+Correct answer: b) Anonymizing data before training or using A.I. models
+
+Question 5: What is one way to ensure that A.I. complements human work in prompt engineering?
+
+a) Use A.I. to replace human input entirely
+b) Encourage A.I. to make all decisions
+c) Use A.I. to generate creative ideas, while humans refine and finalize the output
+d) Avoid collaboration between humans and A.I. systems
+
+Correct answer: c) Use A.I. to generate creative ideas, while humans refine and finalize the output

@@ -1,0 +1,44 @@
+Question 1: What is the primary purpose of an input in prompt engineering?
+
+A. To define the AI's behavior
+B. To provide the AI with a task or question
+C. To control the randomness of the AI's output
+D. To set the maximum length of the AI's response
+
+Answer: B. To provide the AI with a task or question
+
+Question 2: Which parameter is used to control the randomness or creativity of the AI's output?
+
+A. Max tokens
+B. Clarity
+C. Temperature
+D. Context
+
+Answer: C. Temperature
+
+Question 3: What are the three key aspects to consider when crafting a good prompt?
+
+A. Length, creativity, and context
+B. Clarity, context, and creativity
+C. Specificity, relevance, and temperature
+D. Temperature, max tokens, and clarity
+
+Answer: B. Clarity, context, and creativity
+
+Question 4: In the iterative process of refining prompts, what is the first step after reviewing the output?
+
+A. Adjusting the temperature parameter
+B. Modifying the prompt
+C. Adjusting the max tokens parameter
+D. Providing more examples
+
+Answer: B. Modifying the prompt
+
+Question 5: According to the principles of prompt engineering, what is the best approach when working with AI and creating prompts?
+
+A. Assume the AI knows everything
+B. Start with complex prompts
+C. Begin with simple prompts and gradually add complexity
+D. Focus on achieving perfection
+
+Answer: C. Begin with simple prompts and gradually add complexity

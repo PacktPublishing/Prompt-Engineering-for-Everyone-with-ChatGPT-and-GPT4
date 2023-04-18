@@ -1,0 +1,5 @@
+Find recent articles on sustainable business practices, focusing on renewable energy and waste management
+
+Summarize the key points of this article on sustainable business practices in 200 words: {article}
+
+Identify the trends in renewable energy adoption among small businesses over the last five years

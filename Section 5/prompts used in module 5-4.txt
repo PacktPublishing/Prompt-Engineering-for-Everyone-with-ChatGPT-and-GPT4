@@ -1,0 +1,18 @@
+Given the following tasks, rank them in order of priority:
+Review project report (due in 3 days, high importance, 2 hours estimated time)
+Prepare presentation (due in 5 days, medium importance, 4 hours estimated time)
+Respond to client emails (due today, low importance, 1 hour estimated time)
+Brainstorm ideas for upcoming campaign (due in 7 days, high importance, 3 hours estimated time)
+
+
+Analyze the following workflow for inefficiencies:
+Draft email content (30 minutes)
+Get approval from supervisor (2 hours)
+Edit based on feedback (15 minutes)
+Send email to recipients (5 minutes)
+
+
+Given the following sales data, suggest which product to prioritize for marketing efforts:
+Product A: Sales growth of 5% in the last 3 months, 200 units sold per month
+Product B: Sales growth of 12% in the last 3 months, 100 units sold per month
+Product C: Sales growth of 2% in the last 3 months, 150 units sold per month

@@ -1,0 +1,5 @@
+Translate the following English sentence to Spanish: {input_text}
+
+What language is the following text written in? {input_text}
+
+Generate a caption for the following image: {image_description}

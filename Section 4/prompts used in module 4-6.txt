@@ -1,0 +1,5 @@
+Create a data visualization showing the monthly revenue from each product category for the past year: {revenues per product categories}
+
+Analyze last quarter's ad spend and recommend the top three channels with the highest ROI {ad spend per channel}
+
+Analyze the qualifications of these applicants and rank them based on their skills and experience, without considering their names or personal information {applicant list}

@@ -1,0 +1,8 @@
+Given the following tasks, deadlines, and team member skills, please suggest an optimal task assignment for the team: {tasks, deadlines, team member skills}
+
+
+Please provide a project status update based on the following task completion percentages and team member contributions: {completion percentages and contributions}
+
+
+Considering the availability of the following team members, please suggest the best time for a project update meeting: {team members availability}
+

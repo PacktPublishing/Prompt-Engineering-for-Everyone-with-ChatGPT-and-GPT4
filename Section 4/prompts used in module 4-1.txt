@@ -1,0 +1,3 @@
+Compose an email to schedule a meeting with a colleague, discussing a new project idea.
+
+Write a Twitter post to promote an online workshop about prompt engineering, targeting professionals interested in A.I.
